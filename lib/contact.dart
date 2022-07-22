@@ -8,7 +8,7 @@ class ContactPage extends StatefulWidget {
 }
 
 class _ContactPageState extends State<ContactPage> {
-  List<String> names = ["Jackson","Mark","Bam","Chinawat"];
+  List<String> names = ["Jackson","Mark","Bam","Kawinnat"];
   int i = 0;
   @override
   Widget build(BuildContext context) {
